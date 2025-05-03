@@ -4,4 +4,5 @@ export interface ItemT {
   description: string;
   category: string;
   image: string;
+  id:number
 }
